@@ -1,0 +1,16 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const two_number_sum_1 = require("./two-number-sum");
+const array1 = [3, 5, -4, 8, 11, 1, -1, 6];
+const targetSum1 = 10;
+const array2 = [4, 6];
+const targetSum2 = 10;
+const array3 = [4, 6, 1];
+const targetSum3 = 5;
+const array4 = [4, 6, 1, -3];
+const targetSum4 = 3;
+const array5 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+const targetSum5 = 17;
+console.log("Solution 1: ", (0, two_number_sum_1.twoNumberSum)(array1, targetSum1));
+console.log("Solution 2: ", (0, two_number_sum_1.twoNumberSum2)(array1, targetSum1));
+console.log("Solution 3: ", (0, two_number_sum_1.twoNumberSum3)(array1, targetSum1));
