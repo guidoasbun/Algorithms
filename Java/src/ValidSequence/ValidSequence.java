@@ -1,2 +1,4 @@
-package ValidSequence;public class ValidSequence {
+package ValidSequence;
+
+public class ValidSequence {
 }
