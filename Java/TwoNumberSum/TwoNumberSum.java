@@ -1,4 +1,4 @@
-package TwoNumberSum;
+package Java.TwoNumberSum;
 
 class TwoNumberSum {
 
